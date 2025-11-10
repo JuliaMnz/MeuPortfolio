@@ -75,19 +75,19 @@ export default function Projetos() {
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-6 w-full max-w-4xl">
         {[
           {
-            title: "Protótipo 1",
+            title: "Mico Diário de Humor",
             link: "https://www.figma.com/proto/aKXD51f2ctbvjkyB6JCyTX?node-id=0-1&t=TiA7bc39pBFU3P92-6",
           },
           {
-            title: "Protótipo 2",
+            title: "Cena",
             link: "https://www.figma.com/proto/tHhWkJRCk2nayNQBEL6reF?node-id=0-1&t=TiA7bc39pBFU3P92-6",
           },
           {
-            title: "Protótipo 3",
+            title: "Ecocap",
             link: "https://www.figma.com/proto/9kuAmqXuejwUPVcZl2oDOU?node-id=0-1&t=TiA7bc39pBFU3P92-6",
           },
           {
-            title: "Protótipo 4",
+            title: "Alerta Urbano",
             link: "https://www.figma.com/proto/wE3d1AFJkmC5ZOYcIA1Bgo?node-id=335-128&t=TiA7bc39pBFU3P92-6",
           },
         ].map((proto, index) => (
